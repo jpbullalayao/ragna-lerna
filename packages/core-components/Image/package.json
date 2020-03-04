@@ -1,0 +1,29 @@
+{
+  "name": "image",
+  "version": "0.0.1",
+  "description": "Styled component for the <img> HTML tag",
+  "keywords": [
+    "img"
+  ],
+  "author": "Jourdan Bul-lalayao <jpbullalayao@gmail.com>",
+  "homepage": "https://github.com/jpbullalayao/ragna-lerna#readme",
+  "license": "ISC",
+  "main": "src/Image.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpbullalayao/ragna-lerna.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/jpbullalayao/ragna-lerna/issues"
+  }
+}
