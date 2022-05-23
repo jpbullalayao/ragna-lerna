@@ -1,6 +1,6 @@
 {
   "name": "@professorragna/list",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Styled components for the <ol>, <ul>, and <li> HTML tags",
   "keywords": [
     "ul",

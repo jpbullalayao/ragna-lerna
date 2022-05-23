@@ -1,6 +1,6 @@
 {
   "name": "@professorragna/h1",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Styled component for the <h1> HTML tag",
   "keywords": [
     "h1"
