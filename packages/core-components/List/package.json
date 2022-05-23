@@ -1,5 +1,5 @@
 {
-  "name": "list",
+  "name": "@professorragna/list",
   "version": "0.0.1",
   "description": "Styled components for the <ol>, <ul>, and <li> HTML tags",
   "keywords": [
@@ -23,6 +23,7 @@
     "url": "git+https://github.com/jpbullalayao/ragna-lerna.git"
   },
   "scripts": {
+    "tsc": "tsc",
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {

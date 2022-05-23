@@ -1,5 +1,5 @@
 {
-  "name": "h1",
+  "name": "@professorragna/h1",
   "version": "0.0.1",
   "description": "Styled component for the <h1> HTML tag",
   "keywords": [
@@ -21,6 +21,7 @@
     "url": "git+https://github.com/jpbullalayao/ragna-lerna.git"
   },
   "scripts": {
+    "tsc": "tsc",
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {

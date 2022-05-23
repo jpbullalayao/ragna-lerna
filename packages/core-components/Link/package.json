@@ -1,5 +1,5 @@
 {
-  "name": "link",
+  "name": "@professorragna/link",
   "version": "0.0.1",
   "description": "Styled component for the <a> HTML tag",
   "keywords": [
@@ -22,6 +22,7 @@
     "url": "git+https://github.com/jpbullalayao/ragna-lerna.git"
   },
   "scripts": {
+    "tsc": "tsc",
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {
