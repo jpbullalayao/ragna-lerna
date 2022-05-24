@@ -47,7 +47,9 @@ export const Primary: ComponentStory<typeof Table> = () => (
       </Tr>
     </Tbody>
     <Tfoot>
-      Table footer
+      <Tr>
+        <Td>Table footer</Td>
+      </Tr>
     </Tfoot>
   </Table>
 );

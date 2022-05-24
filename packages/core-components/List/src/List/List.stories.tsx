@@ -5,8 +5,10 @@ import {
   ComponentStory,
 } from '@storybook/react';
 
-import { List } from './List';
-import { Li } from '../Li/Li';
+import {
+  List,
+  Li
+} from '..';
 
 export default {
   title: 'List',
