@@ -3,3 +3,8 @@ node_modules/
 storybook-static/
 
 lib/
+
+**/*.d.ts
+**/*.js.map
+**/*.js
+**/*.stories.js
