@@ -1,4 +1,6 @@
-import styled from "styled-components";
+import React, {
+  ReactNode,
+} from 'react';
 
 import { Ol } from '../Ol/Ol';
 import { Ul } from '../Ul/Ul'; 
@@ -7,6 +9,7 @@ type Variant = 'ul' | 'ol';
 
 type Props = {
   variant: Variant;
+  children?: ReactNode;
 };
 
 export const List = ({

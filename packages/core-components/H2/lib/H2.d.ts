@@ -1,1 +1,1 @@
-declare function h2(): void;
+export declare const H2: any;

@@ -1,1 +1,1 @@
-declare function link(): void;
+export declare const Link: any;

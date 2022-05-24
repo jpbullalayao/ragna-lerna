@@ -1,1 +1,1 @@
-declare function paragraph(): void;
+export declare const Paragraph: any;

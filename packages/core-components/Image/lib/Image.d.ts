@@ -1,1 +1,1 @@
-declare function image(): void;
+export declare const Image: any;

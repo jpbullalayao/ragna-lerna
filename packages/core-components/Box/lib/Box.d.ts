@@ -1,1 +1,1 @@
-declare function div(): void;
+export declare const Box: any;

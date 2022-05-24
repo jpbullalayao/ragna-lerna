@@ -1,1 +1,1 @@
-declare function span(): void;
+export declare const Span: any;

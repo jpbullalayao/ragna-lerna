@@ -11,7 +11,10 @@
     "sourceMap": true,
     "lib": [
       "es6"
-    ]
+    ],
+    "jsx": "react",
+    "skipLibCheck": true,
+    "esModuleInterop": true
   },
   "exclude": [
     "node_modules",

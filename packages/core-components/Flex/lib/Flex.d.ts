@@ -1,1 +1,1 @@
-declare function flex(): void;
+export declare const Flex: any;
