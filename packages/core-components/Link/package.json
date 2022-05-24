@@ -27,5 +27,9 @@
   },
   "bugs": {
     "url": "https://github.com/jpbullalayao/ragna-lerna/issues"
+  },
+  "dependencies": {
+    "styled-components": "^5.3.5",
+    "styled-system": "^5.1.5"
   }
 }

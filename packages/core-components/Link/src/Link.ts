@@ -1,7 +1,27 @@
-'use strict';
+import styled from "styled-components";
 
-module.exports = link;
+import {
+  background,
+  border,
+  color,
+  flexbox,
+  grid,
+  layout,
+  position,
+  shadow,
+  space,
+  typography,
+} from 'styled-system';
 
-function link() {
-    // TODO
-}
+export const Link = styled.a`
+  ${background}
+  ${border}
+  ${color}
+  ${flexbox}
+  ${grid}
+  ${layout}
+  ${position}
+  ${shadow}
+  ${space}
+  ${typography}
+`;
