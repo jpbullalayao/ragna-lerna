@@ -1,17 +1,14 @@
 {
-  "name": "@professorragna/form",
+  "name": "@professorragna/main",
   "version": "1.0.0",
-  "description": "Styled components for the <form> HTML tag & other associated tags used in forms",
+  "description": "Styled component for the <main> HTML tag",
   "keywords": [
-    "form",
-    "input",
-    "label",
-    "textarea"
+    "main"
   ],
   "author": "jpbullalayao <jpbullalayao@gmail.com>",
   "homepage": "https://github.com/jpbullalayao/ragna-lerna#readme",
   "license": "ISC",
-  "main": "lib/Form.js",
+  "main": "lib/Main.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
