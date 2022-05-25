@@ -3,10 +3,13 @@
   "version": "1.0.0",
   "description": "Styled component for the <h3> HTML tag",
   "keywords": [
-    "h3"
+    "h3",
+    "styled component",
+    "styled system",
+    "react"
   ],
   "author": "Jourdan Bul-lalayao <jpbullalayao@gmail.com>",
-  "homepage": "https://github.com/jpbullalayao/ragna-lerna#readme",
+  "homepage": "https://github.com/jpbullalayao/ragna-lerna/tree/develop/packages/core-components/H3#readme",
   "license": "ISC",
   "main": "src/H3.js",
   "directories": {

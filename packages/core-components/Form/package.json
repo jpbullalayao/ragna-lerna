@@ -6,10 +6,13 @@
     "form",
     "input",
     "label",
-    "textarea"
+    "textarea",
+    "styled component",
+    "styled system",
+    "react"
   ],
   "author": "jpbullalayao <jpbullalayao@gmail.com>",
-  "homepage": "https://github.com/jpbullalayao/ragna-lerna#readme",
+  "homepage": "https://github.com/jpbullalayao/ragna-lerna/tree/develop/packages/core-components/Form#readme",
   "license": "ISC",
   "main": "lib/Form.js",
   "directories": {

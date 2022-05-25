@@ -20,3 +20,17 @@ import { Grid } from '@professorragna/grid';
   <div>This is the second grid item</div>
 </Grid>
 ```
+
+The `<Grid>` styled component supports the following categories of styled props:
+
+- background
+- border
+- color
+- grid
+- layout
+- position
+- shadow
+- space
+- typography
+
+For more information on how to use styled props, see the [styled-system](https://styled-system.com/api/) docs

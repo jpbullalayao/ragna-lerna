@@ -17,3 +17,18 @@ import { Span } from '@professorragna/span';
   Your content here
 </Span>
 ```
+
+The `<Span>` styled component supports the following categories of styled props:
+
+- background
+- border
+- color
+- flexbox
+- grid
+- layout
+- position
+- shadow
+- space
+- typography
+
+For more information on how to use styled props, see the [styled-system](https://styled-system.com/api/) docs

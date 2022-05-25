@@ -3,10 +3,13 @@
   "version": "1.0.0",
   "description": "Styled component for the <main> HTML tag",
   "keywords": [
-    "main"
+    "main",
+    "styled component",
+    "styled system",
+    "react"
   ],
   "author": "jpbullalayao <jpbullalayao@gmail.com>",
-  "homepage": "https://github.com/jpbullalayao/ragna-lerna#readme",
+  "homepage": "https://github.com/jpbullalayao/ragna-lerna/tree/develop/packages/core-components/Main#readme",
   "license": "ISC",
   "main": "lib/Main.js",
   "directories": {

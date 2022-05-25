@@ -3,10 +3,13 @@
   "version": "1.0.0",
   "description": "Styled component for the <h6> HTML tag",
   "keywords": [
-    "h6"
+    "h6",
+    "styled component",
+    "styled system",
+    "react"
   ],
   "author": "jpbullalayao <jpbullalayao@gmail.com>",
-  "homepage": "https://github.com/jpbullalayao/ragna-lerna#readme",
+  "homepage": "https://github.com/jpbullalayao/ragna-lerna/tree/develop/packages/core-components/H6#readme",
   "license": "ISC",
   "main": "lib/H6.js",
   "directories": {

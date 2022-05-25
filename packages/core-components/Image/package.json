@@ -3,10 +3,13 @@
   "version": "1.0.0",
   "description": "Styled component for the <img> HTML tag",
   "keywords": [
-    "img"
+    "img",
+    "styled component",
+    "styled system",
+    "react"
   ],
   "author": "Jourdan Bul-lalayao <jpbullalayao@gmail.com>",
-  "homepage": "https://github.com/jpbullalayao/ragna-lerna#readme",
+  "homepage": "https://github.com/jpbullalayao/ragna-lerna/tree/develop/packages/core-components/Image#readme",
   "license": "ISC",
   "main": "src/Image.js",
   "directories": {

@@ -5,10 +5,13 @@
   "keywords": [
     "ul",
     "ol",
-    "li"
+    "li",
+    "styled component",
+    "styled system",
+    "react"
   ],
   "author": "Jourdan Bul-lalayao <jpbullalayao@gmail.com>",
-  "homepage": "https://github.com/jpbullalayao/ragna-lerna#readme",
+  "homepage": "https://github.com/jpbullalayao/ragna-lerna/tree/develop/packages/core-components/List#readme",
   "license": "ISC",
   "main": "src/List.js",
   "directories": {

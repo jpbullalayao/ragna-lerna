@@ -19,3 +19,15 @@ import { Image } from '@professorragna/Image';
   width="500px"
 />
 ```
+
+The `<Image>` styled component supports the following categories of styled props:
+
+- border
+- flexbox
+- grid
+- layout
+- position
+- shadow
+- space
+
+For more information on how to use styled props, see the [styled-system](https://styled-system.com/api/) docs

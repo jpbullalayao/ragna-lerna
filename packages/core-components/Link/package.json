@@ -4,10 +4,13 @@
   "description": "Styled component for the <a> HTML tag",
   "keywords": [
     "a",
-    "link"
+    "link",
+    "styled component",
+    "styled system",
+    "react"
   ],
   "author": "Jourdan Bul-lalayao <jpbullalayao@gmail.com>",
-  "homepage": "https://github.com/jpbullalayao/ragna-lerna#readme",
+  "homepage": "https://github.com/jpbullalayao/ragna-lerna/tree/develop/packages/core-components/Link#readme",
   "license": "ISC",
   "main": "src/Link.js",
   "directories": {

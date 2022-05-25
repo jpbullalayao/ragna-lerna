@@ -60,3 +60,18 @@ import {
   </Tfoot>
 </Table>
 ```
+
+Each of the table styled components in this package support the following categories of styled props:
+
+- background
+- border
+- color
+- flexbox
+- grid
+- layout
+- position
+- shadow
+- space
+- typography
+
+For more information on how to use styled props, see the [styled-system](https://styled-system.com/api/) docs

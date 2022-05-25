@@ -19,3 +19,17 @@ import { Flex } from '@professorragna/flex';
   Your content here
 </Flex>
 ```
+
+The `<Flex>` styled component supports the following categories of styled props:
+
+- background
+- border
+- color
+- flexbox
+- layout
+- position
+- shadow
+- space
+- typography
+
+For more information on how to use styled props, see the [styled-system](https://styled-system.com/api/) docs

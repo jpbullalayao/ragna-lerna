@@ -3,10 +3,14 @@
   "version": "1.0.0",
   "description": "Styled component for the <div> HTML tag, using flex properties",
   "keywords": [
-    "flex"
+    "flex",
+    "div",
+    "styled component",
+    "styled system",
+    "react"
   ],
   "author": "Jourdan Bul-lalayao <jpbullalayao@gmail.com>",
-  "homepage": "https://github.com/jpbullalayao/ragna-lerna#readme",
+  "homepage": "https://github.com/jpbullalayao/ragna-lerna/tree/develop/packages/core-components/Flex#readme",
   "license": "ISC",
   "main": "lib/Flex.js",
   "directories": {

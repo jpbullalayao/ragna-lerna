@@ -17,3 +17,18 @@ import { H2 } from '@professorragna/h2';
   Hello world!
 </H2>
 ```
+
+The `<H2>` styled component supports the following categories of styled props:
+
+- background
+- border
+- color
+- flexbox
+- grid
+- layout
+- position
+- shadow
+- space
+- typography
+
+For more information on how to use styled props, see the [styled-system](https://styled-system.com/api/) docs

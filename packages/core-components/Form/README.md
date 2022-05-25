@@ -39,3 +39,18 @@ import {
   </Fieldset>
 </Form>
 ```
+
+Each of the form styled components in this package support the following categories of styled props:
+
+- background
+- border
+- color
+- flexbox
+- grid
+- layout
+- position
+- shadow
+- space
+- typography
+
+For more information on how to use styled props, see the [styled-system](https://styled-system.com/api/) docs

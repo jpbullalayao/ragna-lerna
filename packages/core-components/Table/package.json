@@ -9,10 +9,13 @@
     "th",
     "tbody",
     "tfoot",
-    "thead"
+    "thead",
+    "styled component",
+    "styled system",
+    "react"
   ],
   "author": "jpbullalayao <jpbullalayao@gmail.com>",
-  "homepage": "https://github.com/jpbullalayao/ragna-lerna#readme",
+  "homepage": "https://github.com/jpbullalayao/ragna-lerna/tree/develop/packages/core-components/Table#readme",
   "license": "ISC",
   "main": "lib/Table.js",
   "directories": {
