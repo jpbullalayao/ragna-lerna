@@ -1,11 +1,36 @@
-# `Footer`
+# Footer Styled Component
 
-> TODO: description
+Styled component for the `<footer>` HTML tag
+
+## Installation
+
+```
+$ npm i @professorragna/footer
+```
 
 ## Usage
 
-```
-const footer = require('Footer');
+```jsx
+import { Footer } from '@professorragna/footer';
 
-// TODO: DEMONSTRATE API
+<Footer
+  p="10px"
+>
+  Your content here
+</Footer>
 ```
+
+The `<Footer>` styled component supports the following categories of styled props:
+
+- background
+- border
+- color
+- flexbox
+- grid
+- layout
+- position
+- shadow
+- space
+- typography
+
+For more information on how to use styled props, see the [styled-system](https://styled-system.com/api/) docs

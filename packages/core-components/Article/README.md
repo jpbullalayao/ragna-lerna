@@ -1,11 +1,34 @@
-# `Article`
+# Article Styled Component
 
-> TODO: description
+Styled component for the `<article>` HTML tag
+
+## Installation
+
+```
+$ npm i @professorragna/article
+```
 
 ## Usage
 
-```
-const article = require('Article');
+```jsx
+import { Article } from '@professorragna/article';
 
-// TODO: DEMONSTRATE API
+<Article>
+  Your content here
+</Article>
 ```
+
+The `<Article>` styled component supports the following categories of styled props:
+
+- background
+- border
+- color
+- flexbox
+- grid
+- layout
+- position
+- shadow
+- space
+- typography
+
+For more information on how to use styled props, see the [styled-system](https://styled-system.com/api/) docs

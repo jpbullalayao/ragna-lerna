@@ -14,6 +14,9 @@ import {
 } from 'styled-system';
 
 export const Ol = styled.ol`
+  padding: 0;
+  margin: 0;
+
   ${background}
   ${border}
   ${color}
@@ -24,7 +27,4 @@ export const Ol = styled.ol`
   ${shadow}
   ${space}
   ${typography}
-
-  padding: 0;
-  margin: 0;
 `;

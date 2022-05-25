@@ -1,11 +1,34 @@
-# `H1`
+# H1 Styled Component
 
-> TODO: description
+Styled component for the `<h1>` HTML tag
+
+## Installation
+
+```
+$ npm i @professorragna/h1
+```
 
 ## Usage
 
-```
-const h1 = require('H1');
+```jsx
+import { H1 } from '@professorragna/h1';
 
-// TODO: DEMONSTRATE API
+<H1>
+  Hello world!
+</H1>
 ```
+
+The `<H1>` styled component supports the following categories of styled props:
+
+- background
+- border
+- color
+- flexbox
+- grid
+- layout
+- position
+- shadow
+- space
+- typography
+
+For more information on how to use styled props, see the [styled-system](https://styled-system.com/api/) docs

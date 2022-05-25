@@ -1,11 +1,34 @@
-# `H2`
+# H2 Styled Component
 
-> TODO: description
+Styled component for the `<h2>` HTML tag
+
+## Installation
+
+```
+$ npm i @professorragna/h2
+```
 
 ## Usage
 
-```
-const h2 = require('H2');
+```jsx
+import { H2 } from '@professorragna/h2';
 
-// TODO: DEMONSTRATE API
+<H2>
+  Hello world!
+</H2>
 ```
+
+The `<H2>` styled component supports the following categories of styled props:
+
+- background
+- border
+- color
+- flexbox
+- grid
+- layout
+- position
+- shadow
+- space
+- typography
+
+For more information on how to use styled props, see the [styled-system](https://styled-system.com/api/) docs

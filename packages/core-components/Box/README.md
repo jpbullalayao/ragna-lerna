@@ -1,11 +1,34 @@
-# `Div`
+# Box Styled Component
 
-> TODO: description
+Styled component for the `<div>` HTML tag, using non-flex and non-grid properties
+
+## Installation
+
+```
+$ npm i @professorragna/box
+```
 
 ## Usage
 
-```
-const div = require('Div');
+```jsx
+import { Box } from '@professorragna/box';
 
-// TODO: DEMONSTRATE API
+<Box>
+  Your content here
+</Box>
 ```
+
+The `<Box>` styled component supports the following categories of styled props:
+
+- background
+- border
+- color
+- flexbox
+- grid
+- layout
+- position
+- shadow
+- space
+- typography
+
+For more information on how to use styled props, see the [styled-system](https://styled-system.com/api/) docs

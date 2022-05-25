@@ -1,11 +1,34 @@
-# `H3`
+# H3 Styled Component
 
-> TODO: description
+Styled component for the `<h3>` HTML tag
+
+## Installation
+
+```
+$ npm i @professorragna/h3
+```
 
 ## Usage
 
-```
-const h3 = require('H3');
+```jsx
+import { H3 } from '@professorragna/h3';
 
-// TODO: DEMONSTRATE API
+<H3>
+  Hello world!
+</H3>
 ```
+
+The `<H3>` styled component supports the following categories of styled props:
+
+- background
+- border
+- color
+- flexbox
+- grid
+- layout
+- position
+- shadow
+- space
+- typography
+
+For more information on how to use styled props, see the [styled-system](https://styled-system.com/api/) docs

@@ -14,6 +14,9 @@ import {
 } from 'styled-system';
 
 export const Ul = styled.ul`
+  padding: 0;
+  margin: 0;
+
   ${background}
   ${border}
   ${color}
@@ -24,7 +27,4 @@ export const Ul = styled.ul`
   ${shadow}
   ${space}
   ${typography}
-
-  padding: 0;
-  margin: 0;
 `;
