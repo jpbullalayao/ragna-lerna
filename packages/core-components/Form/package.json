@@ -1,6 +1,6 @@
 {
   "name": "@professorragna/form",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Styled components for the <form> HTML tag & other associated tags used in forms",
   "keywords": [
     "form",
