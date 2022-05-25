@@ -1,11 +1,19 @@
 # `Article`
 
-> TODO: description
+Styled component for the <article> HTML tag
+
+## Installation
+
+```
+$ npm i @professorragna/article
+```
 
 ## Usage
 
 ```
-const article = require('Article');
+import { Article } from '@professorragna/article';
 
-// TODO: DEMONSTRATE API
+<Article>
+  Your content here
+</Article>
 ```
