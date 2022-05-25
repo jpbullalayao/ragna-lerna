@@ -1,0 +1,34 @@
+{
+  "name": "@professorragna/main",
+  "version": "1.0.0",
+  "description": "Styled component for the <main> HTML tag",
+  "keywords": [
+    "main"
+  ],
+  "author": "jpbullalayao <jpbullalayao@gmail.com>",
+  "homepage": "https://github.com/jpbullalayao/ragna-lerna#readme",
+  "license": "ISC",
+  "main": "lib/Main.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpbullalayao/ragna-lerna.git"
+  },
+  "scripts": {
+    "tsc": "tsc",
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/jpbullalayao/ragna-lerna/issues"
+  },
+  "dependencies": {
+    "styled-components": "^5.3.5",
+    "styled-system": "^5.1.5"
+  }
+}
