@@ -1,12 +1,15 @@
 {
   "name": "@professorragna/footer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Styled component for the <footer> HTML tag",
   "keywords": [
-    "footer"
+    "footer",
+    "styled component",
+    "styled system",
+    "react"
   ],
   "author": "jpbullalayao <jpbullalayao@gmail.com>",
-  "homepage": "https://github.com/jpbullalayao/ragna-lerna#readme",
+  "homepage": "https://github.com/jpbullalayao/ragna-lerna/tree/develop/packages/core-components/Footer#readme",
   "license": "ISC",
   "main": "lib/Footer.js",
   "directories": {

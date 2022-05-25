@@ -1,11 +1,34 @@
-# `Main`
+# Main Styled Component
 
-> TODO: description
+Styled component for the `<main>` HTML tag
+
+## Installation
+
+```
+$ npm i @professorragna/main
+```
 
 ## Usage
 
-```
-const main = require('Main');
+```jsx
+import { Main } from '@professorragna/main';
 
-// TODO: DEMONSTRATE API
+<Main>
+  Your content here
+</Main>
 ```
+
+The `<Main>` styled component supports the following categories of styled props:
+
+- background
+- border
+- color
+- flexbox
+- grid
+- layout
+- position
+- shadow
+- space
+- typography
+
+For more information on how to use styled props, see the [styled-system](https://styled-system.com/api/) docs

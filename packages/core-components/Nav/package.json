@@ -1,12 +1,15 @@
 {
   "name": "@professorragna/nav",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Styled component for the <nav> HTML tag",
   "keywords": [
-    "nav"
+    "nav",
+    "styled component",
+    "styled system",
+    "react"
   ],
   "author": "Jourdan Bul-lalayao <jpbullalayao@gmail.com>",
-  "homepage": "https://github.com/jpbullalayao/ragna-lerna#readme",
+  "homepage": "https://github.com/jpbullalayao/ragna-lerna/tree/develop/packages/core-components/Nav#readme",
   "license": "ISC",
   "main": "src/Nav.js",
   "directories": {

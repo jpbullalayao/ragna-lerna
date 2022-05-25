@@ -1,11 +1,34 @@
-# `H4`
+# H4 Styled Component
 
-> TODO: description
+Styled component for the `<h4>` HTML tag
+
+## Installation
+
+```
+$ npm i @professorragna/h4
+```
 
 ## Usage
 
-```
-const h4 = require('H4');
+```jsx
+import { H4 } from '@professorragna/h4';
 
-// TODO: DEMONSTRATE API
+<H4>
+  Hello world!
+</H4>
 ```
+
+The `<H4>` styled component supports the following categories of styled props:
+
+- background
+- border
+- color
+- flexbox
+- grid
+- layout
+- position
+- shadow
+- space
+- typography
+
+For more information on how to use styled props, see the [styled-system](https://styled-system.com/api/) docs

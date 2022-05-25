@@ -1,12 +1,15 @@
 {
   "name": "@professorragna/section",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Styled component for the <section> HTML tag",
   "keywords": [
-    "section"
+    "section",
+    "styled component",
+    "styled system",
+    "react"
   ],
   "author": "jpbullalayao <jpbullalayao@gmail.com>",
-  "homepage": "https://github.com/jpbullalayao/ragna-lerna#readme",
+  "homepage": "https://github.com/jpbullalayao/ragna-lerna/tree/develop/packages/core-components/Section#readme",
   "license": "ISC",
   "main": "lib/Section.js",
   "directories": {

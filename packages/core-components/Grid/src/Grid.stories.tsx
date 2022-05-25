@@ -15,7 +15,6 @@ export default {
 export const Primary: ComponentStory<typeof Grid> = () => (
   <Grid
     gridTemplateColumns="1fr 1fr"
-    display="inline-grid"
   >
     <div>This is a column 1 of a grid</div>
     <div>This is a column 2 of a grid</div>

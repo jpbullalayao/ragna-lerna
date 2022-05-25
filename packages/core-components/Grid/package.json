@@ -1,13 +1,16 @@
 {
   "name": "@professorragna/grid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Styled component for the <div> tag, using grid layout styles",
   "keywords": [
     "grid",
-    "div"
+    "div",
+    "styled component",
+    "styled system",
+    "react"
   ],
   "author": "jpbullalayao <jpbullalayao@gmail.com>",
-  "homepage": "https://github.com/jpbullalayao/ragna-lerna#readme",
+  "homepage": "https://github.com/jpbullalayao/ragna-lerna/tree/develop/packages/core-components/Grid#readme",
   "license": "ISC",
   "main": "lib/Grid.js",
   "directories": {

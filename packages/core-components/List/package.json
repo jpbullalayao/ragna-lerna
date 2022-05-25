@@ -1,14 +1,17 @@
 {
   "name": "@professorragna/list",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Styled components for the <ol>, <ul>, and <li> HTML tags",
   "keywords": [
     "ul",
     "ol",
-    "li"
+    "li",
+    "styled component",
+    "styled system",
+    "react"
   ],
   "author": "Jourdan Bul-lalayao <jpbullalayao@gmail.com>",
-  "homepage": "https://github.com/jpbullalayao/ragna-lerna#readme",
+  "homepage": "https://github.com/jpbullalayao/ragna-lerna/tree/develop/packages/core-components/List#readme",
   "license": "ISC",
   "main": "src/List.js",
   "directories": {

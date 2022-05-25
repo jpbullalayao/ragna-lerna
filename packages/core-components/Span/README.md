@@ -1,11 +1,34 @@
-# `Span`
+# Span Styled Component
 
-> TODO: description
+Styled component for the `<span>` HTML tag
+
+## Installation
+
+```
+$ npm i @professorragna/span
+```
 
 ## Usage
 
-```
-const span = require('Span');
+```jsx
+import { Span } from '@professorragna/span';
 
-// TODO: DEMONSTRATE API
+<Span>
+  Your content here
+</Span>
 ```
+
+The `<Span>` styled component supports the following categories of styled props:
+
+- background
+- border
+- color
+- flexbox
+- grid
+- layout
+- position
+- shadow
+- space
+- typography
+
+For more information on how to use styled props, see the [styled-system](https://styled-system.com/api/) docs
