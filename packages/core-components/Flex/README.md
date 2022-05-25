@@ -1,11 +1,21 @@
-# `Flex`
+# Flex Styled Component
 
-> TODO: description
+Styled component for the `<div>` HTML tag, using flexbox properties
+
+## Installation
+
+```
+$ npm i @professorragna/flex
+```
 
 ## Usage
 
-```
-const flex = require('Flex');
+```jsx
+import { Flex } from '@professorragna/flex';
 
-// TODO: DEMONSTRATE API
+<Flex
+  p="10px"
+>
+  Your content here
+</Flex>
 ```

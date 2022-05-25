@@ -1,11 +1,19 @@
-# `Span`
+# Span Styled Component
 
-> TODO: description
+Styled component for the `<span>` HTML tag
+
+## Installation
+
+```
+$ npm i @professorragna/span
+```
 
 ## Usage
 
-```
-const span = require('Span');
+```jsx
+import { Span } from '@professorragna/span';
 
-// TODO: DEMONSTRATE API
+<Span>
+  Your content here
+</Span>
 ```

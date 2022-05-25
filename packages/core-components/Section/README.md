@@ -1,11 +1,19 @@
-# `Section`
+# Section Styled Component
 
-> TODO: description
+Styled component for the `<section>` HTML tag
+
+## Installation
+
+```
+$ npm i @professorragna/section
+```
 
 ## Usage
 
-```
-const section = require('Section');
+```jsx
+import { Section } from '@professorragna/section';
 
-// TODO: DEMONSTRATE API
+<Section>
+  Your content here
+</Section>
 ```

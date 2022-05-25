@@ -1,11 +1,19 @@
-# `Paragraph`
+# Paragraph Styled Component
 
-> TODO: description
+Styled component for the `<paragraph>` HTML tag
+
+## Installation
+
+```
+$ npm i @professorragna/paragraph
+```
 
 ## Usage
 
-```
-const paragraph = require('Paragraph');
+```jsx
+import { Paragraph } from '@professorragna/paragraph';
 
-// TODO: DEMONSTRATE API
+<Paragraph>
+  Hello world!
+</Paragraph>
 ```

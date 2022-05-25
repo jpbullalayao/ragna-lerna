@@ -1,11 +1,19 @@
-# `Header`
+# Header Styled Component
 
-> TODO: description
+Styled component for the `<header>` HTML tag
+
+## Installation
+
+```
+$ npm i @professorragna/header
+```
 
 ## Usage
 
-```
-const header = require('Header');
+```jsx
+import { Header } from '@professorragna/header';
 
-// TODO: DEMONSTRATE API
+<Header>
+  Your content here
+</Header>
 ```

@@ -1,11 +1,21 @@
-# `Image`
+# Image Styled Component
 
-> TODO: description
+Styled component for the `<img>` HTML tag
+
+## Installation
+
+```
+$ npm i @professorragna/image
+```
 
 ## Usage
 
-```
-const image = require('Image');
+```jsx
+import { Image } from '@professorragna/Image';
 
-// TODO: DEMONSTRATE API
+<Image
+  src="https://via.placeholder.com/500"
+  height="500px"
+  width="500px"
+/>
 ```

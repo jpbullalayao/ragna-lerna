@@ -1,11 +1,41 @@
-# `Form`
+# Form Styled Components
 
-> TODO: description
+A collection of styled components for the `<form>` HTML tag, and other form-related HTML tags including:
+
+- fieldset
+- input
+- label
+- legend
+- textarea
+
+## Installation
+
+```
+$ npm i @professorragna/form
+```
 
 ## Usage
 
-```
-const form = require('Form');
+```jsx
+import {
+  Fieldset,
+  Form,
+  Input,
+  Label,
+  Legend,
+  Textarea,
+} from '@professorragna/form';
 
-// TODO: DEMONSTRATE API
+<Form>
+  <Fieldset>
+    <Legend>This is a form legend</Legend>
+    <Label>This is a form label</Label>
+    <Input
+      placeholder="This is an input field"
+    />
+    <Textarea
+      placeholder="This is a textarea"
+    />
+  </Fieldset>
+</Form>
 ```

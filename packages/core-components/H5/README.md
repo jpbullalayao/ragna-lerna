@@ -1,11 +1,19 @@
-# `H5`
+# H5 Styled Component
 
-> TODO: description
+Styled component for the `<h5>` HTML tag
+
+## Installation
+
+```
+$ npm i @professorragna/h5
+```
 
 ## Usage
 
-```
-const h5 = require('H5');
+```jsx
+import { H5 } from '@professorragna/h5';
 
-// TODO: DEMONSTRATE API
+<H5>
+  Hello world!
+</H5>
 ```

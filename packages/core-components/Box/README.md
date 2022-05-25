@@ -1,11 +1,19 @@
-# `Div`
+# Box Styled Component
 
-> TODO: description
+Styled component for the `<div>` HTML tag, using non-flex and non-grid properties
+
+## Installation
+
+```
+$ npm i @professorragna/box
+```
 
 ## Usage
 
-```
-const div = require('Div');
+```jsx
+import { Box } from '@professorragna/box';
 
-// TODO: DEMONSTRATE API
+<Box>
+  Your content here
+</Box>
 ```

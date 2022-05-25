@@ -1,11 +1,21 @@
-# `Link`
+# Link Styled Component
 
-> TODO: description
+Styled component for the `<a>` HTML tag
+
+## Installation
+
+```
+$ npm i @professorragna/link
+```
 
 ## Usage
 
-```
-const link = require('Link');
+```jsx
+import { Link } from '@professorragna/link';
 
-// TODO: DEMONSTRATE API
+<Link
+  href="https://twitch.tv/professorragna"
+>
+  This is a link
+</Link>
 ```

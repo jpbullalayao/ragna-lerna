@@ -1,11 +1,19 @@
-# `Nav`
+# Nav Styled Component
 
-> TODO: description
+Styled component for the `<nav>` HTML tag
+
+## Installation
+
+```
+$ npm i @professorragna/nav
+```
 
 ## Usage
 
-```
-const nav = require('Nav');
+```jsx
+import { Nav } from '@professorragna/nav';
 
-// TODO: DEMONSTRATE API
+<Nav>
+  Your navigation links here
+</Nav>
 ```

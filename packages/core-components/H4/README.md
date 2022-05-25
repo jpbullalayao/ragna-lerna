@@ -1,11 +1,19 @@
-# `H4`
+# H4 Styled Component
 
-> TODO: description
+Styled component for the `<h4>` HTML tag
+
+## Installation
+
+```
+$ npm i @professorragna/h4
+```
 
 ## Usage
 
-```
-const h4 = require('H4');
+```jsx
+import { H4 } from '@professorragna/h4';
 
-// TODO: DEMONSTRATE API
+<H4>
+  Hello world!
+</H4>
 ```

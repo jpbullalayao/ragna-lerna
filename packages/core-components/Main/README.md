@@ -1,11 +1,19 @@
-# `Main`
+# Main Styled Component
 
-> TODO: description
+Styled component for the `<main>` HTML tag
+
+## Installation
+
+```
+$ npm i @professorragna/main
+```
 
 ## Usage
 
-```
-const main = require('Main');
+```jsx
+import { Main } from '@professorragna/main';
 
-// TODO: DEMONSTRATE API
+<Main>
+  Your content here
+</Main>
 ```

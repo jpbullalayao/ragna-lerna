@@ -1,11 +1,21 @@
-# `button`
+# Button Styled Component
 
-> TODO: description
+Styled component for the `<button>` HTML tag
+
+## Installation
+
+```
+$ npm i @professorragna/button
+```
 
 ## Usage
 
-```
-const button = require('button');
+```jsx
+import { Button } from '@professorragna/button';
 
-// TODO: DEMONSTRATE API
+<Button
+  p="10px"
+>
+  Button text here
+</Button>
 ```

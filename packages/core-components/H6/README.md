@@ -1,11 +1,19 @@
-# `H6`
+# H6 Styled Component
 
-> TODO: description
+Styled component for the `<h6>` HTML tag
+
+## Installation
+
+```
+$ npm i @professorragna/h6
+```
 
 ## Usage
 
-```
-const h6 = require('H6');
+```jsx
+import { H6 } from '@professorragna/h6';
 
-// TODO: DEMONSTRATE API
+<H6>
+  Hello world!
+</H6>
 ```

@@ -1,11 +1,19 @@
-# `H3`
+# H3 Styled Component
 
-> TODO: description
+Styled component for the `<h3>` HTML tag
+
+## Installation
+
+```
+$ npm i @professorragna/h3
+```
 
 ## Usage
 
-```
-const h3 = require('H3');
+```jsx
+import { H3 } from '@professorragna/h3';
 
-// TODO: DEMONSTRATE API
+<H3>
+  Hello world!
+</H3>
 ```

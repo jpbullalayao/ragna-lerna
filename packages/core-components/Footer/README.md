@@ -1,11 +1,21 @@
-# `Footer`
+# Footer Styled Component
 
-> TODO: description
+Styled component for the `<footer>` HTML tag
+
+## Installation
+
+```
+$ npm i @professorragna/footer
+```
 
 ## Usage
 
-```
-const footer = require('Footer');
+```jsx
+import { Footer } from '@professorragna/footer';
 
-// TODO: DEMONSTRATE API
+<Footer
+  p="10px"
+>
+  Your content here
+</Footer>
 ```
