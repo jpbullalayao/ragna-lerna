@@ -1,10 +1,10 @@
-import styled from "styled-components";
+import styled from 'styled-components';
 
 import {
   background,
   border,
   color,
-  flexbox,
+  grid,
   layout,
   position,
   shadow,
@@ -12,13 +12,13 @@ import {
   typography,
 } from 'styled-system';
 
-export const Flex = styled.div`
-  display: flex; // Default display
+export const Grid = styled.div`
+  display: grid; // Default display
 
   ${background}
   ${border}
   ${color}
-  ${flexbox}
+  ${grid}
   ${layout}
   ${position}
   ${shadow}
