@@ -1,6 +1,6 @@
 {
-  "name": "box",
-  "version": "0.0.1",
+  "name": "@professorragna/box",
+  "version": "1.0.0",
   "description": "Styled component for the <div> HTML tag, using non-flex properties",
   "keywords": [
     "box"
@@ -21,9 +21,14 @@
     "url": "git+https://github.com/jpbullalayao/ragna-lerna.git"
   },
   "scripts": {
+    "tsc": "tsc",
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {
     "url": "https://github.com/jpbullalayao/ragna-lerna/issues"
+  },
+  "dependencies": {
+    "styled-components": "^5.3.5",
+    "styled-system": "^5.1.5"
   }
 }

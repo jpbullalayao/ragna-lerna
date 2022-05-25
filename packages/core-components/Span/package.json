@@ -1,6 +1,6 @@
 {
-  "name": "span",
-  "version": "0.0.1",
+  "name": "@professorragna/span",
+  "version": "1.0.0",
   "description": "Styled component for the <span> HTML tag",
   "keywords": [
     "span"
@@ -21,9 +21,14 @@
     "url": "git+https://github.com/jpbullalayao/ragna-lerna.git"
   },
   "scripts": {
+    "tsc": "tsc",
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {
     "url": "https://github.com/jpbullalayao/ragna-lerna/issues"
+  },
+  "dependencies": {
+    "styled-components": "^5.3.5",
+    "styled-system": "^5.1.5"
   }
 }

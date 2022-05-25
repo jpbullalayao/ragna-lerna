@@ -1,6 +1,6 @@
 {
-  "name": "image",
-  "version": "0.0.1",
+  "name": "@professorragna/image",
+  "version": "1.0.0",
   "description": "Styled component for the <img> HTML tag",
   "keywords": [
     "img"
@@ -21,9 +21,14 @@
     "url": "git+https://github.com/jpbullalayao/ragna-lerna.git"
   },
   "scripts": {
+    "tsc": "tsc",
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {
     "url": "https://github.com/jpbullalayao/ragna-lerna/issues"
+  },
+  "dependencies": {
+    "styled-components": "^5.3.5",
+    "styled-system": "^5.1.5"
   }
 }
