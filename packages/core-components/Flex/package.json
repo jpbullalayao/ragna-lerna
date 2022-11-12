@@ -1,6 +1,6 @@
 {
   "name": "@professorragna/flex",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Styled component for the <div> HTML tag, using flex properties",
   "keywords": [
     "flex",

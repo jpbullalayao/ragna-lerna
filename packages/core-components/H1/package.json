@@ -1,6 +1,6 @@
 {
   "name": "@professorragna/h1",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Styled component for the <h1> HTML tag",
   "keywords": [
     "h1",
@@ -11,7 +11,7 @@
   "author": "Jourdan Bul-lalayao <jpbullalayao@gmail.com>",
   "homepage": "https://github.com/jpbullalayao/ragna-lerna/tree/develop/packages/core-components/H1#readme",
   "license": "ISC",
-  "main": "src/H1.js",
+  "main": "lib/H1.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"

@@ -1,6 +1,6 @@
 {
   "name": "@professorragna/span",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Styled component for the <span> HTML tag",
   "keywords": [
     "span",
@@ -11,7 +11,7 @@
   "author": "Jourdan Bul-lalayao <jpbullalayao@gmail.com>",
   "homepage": "https://github.com/jpbullalayao/ragna-lerna/tree/develop/packages/core-components/Span#readme",
   "license": "ISC",
-  "main": "src/Span.js",
+  "main": "lib/Span.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
