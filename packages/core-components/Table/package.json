@@ -1,6 +1,6 @@
 {
   "name": "@professorragna/table",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Styled components for the <table> HTML tag & other associated tags used in tables",
   "keywords": [
     "table",

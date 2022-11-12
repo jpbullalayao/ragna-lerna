@@ -1,6 +1,6 @@
 {
   "name": "@professorragna/span",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Styled component for the <span> HTML tag",
   "keywords": [
     "span",
