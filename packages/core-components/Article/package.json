@@ -1,6 +1,6 @@
 {
   "name": "@professorragna/article",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Styled component for the <article> HTML tag",
   "keywords": [
     "article",

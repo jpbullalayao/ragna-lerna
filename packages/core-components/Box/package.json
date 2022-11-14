@@ -1,6 +1,6 @@
 {
   "name": "@professorragna/box",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Styled component for the <div> HTML tag, using non-flex properties",
   "keywords": [
     "box",
