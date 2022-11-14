@@ -1,6 +1,6 @@
 {
   "name": "@professorragna/table",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Styled components for the <table> HTML tag & other associated tags used in tables",
   "keywords": [
     "table",
@@ -17,7 +17,7 @@
   "author": "jpbullalayao <jpbullalayao@gmail.com>",
   "homepage": "https://github.com/jpbullalayao/ragna-lerna/tree/develop/packages/core-components/Table#readme",
   "license": "ISC",
-  "main": "lib/Table.js",
+  "main": "lib/index.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"

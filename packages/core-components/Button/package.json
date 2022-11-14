@@ -1,6 +1,6 @@
 {
   "name": "@professorragna/button",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Styled component for the <button> HTML tag",
   "keywords": [
     "button",
